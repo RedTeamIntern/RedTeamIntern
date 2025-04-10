@@ -1,3 +1,4 @@
+![image](https://publish-01.obsidian.md/access/7a02b6b48a53e5bff95061126fea37e3/Attachments/Primary_1.gif)
 Welcome to **@RedTeamIntern**, where curiosity meets cybersecurity. This is the digital den of exploration, uncovering vulnerabilities, solving challenges, and crafting offensive security strategies.  
 
 Stay tuned for exciting projects here on GitHub and on the **[Red Team Intern blog](https://redteamintern.com)** in the near future. Let’s make the digital world sharper, safer, and just a little more clever.
